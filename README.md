@@ -2,7 +2,6 @@
 
 ## Major
 Computer Science :computer:
-![](https://giphy.com/gifs/scaler-official-monday-computer-laptop-scZPhLqaVOM1qG4lT9.gif)
 
 ## Education
 Eastern Washington University Current
@@ -31,7 +30,8 @@ Graduated from university of Montana in 2015 with a Bachelors in Communication S
 
 ## Link
 *[github] https://github.com/SaaWest
-
+## MEME
+<img src="https://media.giphy.com/media/scZPhLqaVOM1qG4lT9/giphy.gif" width="480">
 <!--
 **SaaWest/SaaWest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
